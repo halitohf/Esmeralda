@@ -39,6 +39,34 @@ export default function FirstPost() {
       </p>
       <h2>
         <Link href="/">Regresa al Inicio </Link>
+        <h3>Segundo Escrito para ti 💗</h3>
+        <p>
+          Sabes que puedo hablarte con ternura y cariño, y no hay necesidad de
+          ocultar esos sentimientos tan hermosos que siento por ti, mi amada de
+          siempre. Eres la persona más linda y cálida que he conocido, y cada
+          día mi amor por ti crece aún más. Cuando nuestros ojos se encuentran,
+          puedo ver la chispa de amor brillar en ellos, y cuando nuestras manos
+          se entrelazan, siento una conexión profunda que trasciende las
+          palabras. Eres la musa que inspira mis sueños y el refugio en el que
+          encuentro paz. En cada gesto tuyo, encuentro una dulzura única que me
+          llena de alegría. Tu sonrisa ilumina mi mundo y tu risa es como música
+          para mis oídos. Cada palabra que pronuncias es como una melodía que
+          acaricia mi corazón, y cada abrazo tuyo es un bálsamo que cura mis
+          heridas. Eres mi confidente, mi compañera y mi apoyo incondicional. En
+          tus brazos encuentro consuelo cuando las tormentas de la vida me
+          abruman, y tus palabras de aliento son como rayos de sol que disipan
+          mis miedos. Quiero que sepas que eres amada de manera completa y
+          sincera. Cada parte de ti es preciosa y digna de adoración. No hay
+          nada que desee más que verte feliz y ser el motivo de tu sonrisa. Mi
+          amor por ti es eterno, y cada día te amo más. Eres la dueña de mi
+          corazón y la razón por la que despierto con ilusión cada mañana.
+          Juntos hemos construido una historia llena de momentos maravillosos, y
+          sé que nuestro futuro estará lleno de amor y felicidad. Así que, mi
+          amada, déjame recordarte siempre lo especial que eres para mí.
+          Permíteme abrazarte con ternura y expresarte mi cariño cada día. Eres
+          mi tesoro más preciado, y siempre estaré aquí para ti, amándote con
+          todo mi ser. Te amo, mi dulce y amada mía de siempre.
+        </p>
       </h2>
     </>
   );
